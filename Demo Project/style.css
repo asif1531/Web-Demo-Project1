@@ -1,0 +1,64 @@
+body{
+    background-color: azure;
+}
+table, th, td{
+  border: 1px solid;
+}
+label{
+  width: 100x;
+  display:inline-block;  
+  font-style: italic;
+}
+.image{
+    /* border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px; */
+  height: 200px;
+  width: 200px;
+  border-radius: 50% ;
+}
+#Skills{
+  font-size: 20px;
+  font-style: italic;
+  
+
+}
+#form{
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  width: 290px;
+  padding: 4px;
+}
+
+#name{
+  margin-left: 40px;
+  width: auto;
+}
+#number{
+  margin-left: 25px;
+  width: auto;
+  margin-top: 6px;
+}
+#mail{
+  margin-left: 33px;
+  width: auto;
+  margin-top: 6px;
+}
+#addr{
+  margin-left: 26px;
+  width: auto;
+  margin-top: 6px;
+}
+#h3{
+  text-align: center;
+}
+#Submit{
+  margin-left: 120px;
+  width: 20%;
+  margin-top: 10px;
+}
+#footer{
+  text-align: center;
+}
